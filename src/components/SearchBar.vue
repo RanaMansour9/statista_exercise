@@ -32,7 +32,6 @@ methods: {
         })
         .catch(err => {
         console.error(err);
-        // this.$emit('setSearchResults', 'No Results')
         })
 
     }

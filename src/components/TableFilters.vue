@@ -58,7 +58,7 @@ methods: {
         if (!this.showStartDate) this.startDate = null
     },
     toggleEndDateFilter () {
-        this.showEndDate = !this.showStartDate 
+        this.showEndDate = !this.showEndDate 
         if (!this.showEndDate) this.endDate = null
     },
     searchWordsUpdate() {

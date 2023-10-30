@@ -32,7 +32,6 @@ computed: {
         return this.items.length
     },
     computedResults () {
-    // console.log('results', this.results.items)        
     return this.results.items
     }
 },
