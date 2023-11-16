@@ -1,0 +1,5 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Snapshot track of changes UI testing 1`] = `"is this GAME WINNER !!Play Again"`;
+
+exports[`snapshot track of changes UI testing 1`] = `"is this GAME WINNER !!Play Again"`;

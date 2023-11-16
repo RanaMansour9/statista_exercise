@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Snapshot track of changes UI testing 1`] = `"The GAME winner is the one who gets 3 WINS in a row  Stats:  X wins: 0 Y wins: 0Reset BoardRestart Game"`;
+
+exports[`snapshot UI testing 1`] = `"The GAME winner is the one who gets 3 WINS in a row  Stats:  X wins: 0 Y wins: 0Reset BoardRestart Game"`;
+
+exports[`snapshot track of changes UI testing 1`] = `"The GAME winner is the one who gets 3 WINS in a row  Stats:  X wins: 0 Y wins: 0Reset BoardRestart Game"`;

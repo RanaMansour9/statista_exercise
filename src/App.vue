@@ -1,9 +1,9 @@
 <script setup>
-import SearchApp from './components/SearchApp.vue'
+import GameBoard from './components/GameBoard.vue'
 </script>
 
 <template>
-  <SearchApp class="h-full flex flex-col grow" />
+  <GameBoard class="flex flex-col h-full grow" />
 </template>
 
 <style scoped>
